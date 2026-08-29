@@ -1,6 +1,8 @@
 # Hapani Motors 🚗
 
 A comprehensive web-based vehicle management and e-commerce system built with PHP, enabling users to browse vehicles, manage orders, and providing administrative capabilities for inventory management.
+<img width="1920" height="2262" alt="image" src="https://github.com/user-attachments/assets/ab53b970-f498-4195-9a70-3a6cc131601d" />
+
 
 ## 📋 Overview
 
